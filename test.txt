@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 edit 2
+=======
+one edit
+>>>>>>> 03e5f693688fcfdc81cc91d2e653ff24381fd145
